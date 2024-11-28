@@ -2,6 +2,7 @@
 
 This repository contains simulation code for reproducing figures from:
 
- Woo, J., Kim, H., Kim, S. H., & Han, K. (2024). Echo State Property upon Noisy Driving Input. Complexity.
+ Woo, J., Kim, H., Kim, S. H., & Han, K. (2024).
+ Echo State Property upon Noisy Driving Input. _Complexity_.
 
  Codes will be uploaded.
